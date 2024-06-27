@@ -25,6 +25,10 @@ public:
 	int Getlength()const;
 	int Getdepth()const;
 
+	void volume();
+	void square();
+	void type();
+
 
 
 };
